@@ -1,0 +1,24 @@
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore compiled class files
+*.class
+
+# Ignore output directory
+/out/
+
+# Ignore temporary files and logs
+*.log
+*.tmp
+
+# Ignore OS-specific files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# Ignore Git-specific files
+*.swp            # Vim temporary files
+*.bak            # Backup files
+
+# Exclude user-specific settings
+.vscode/
